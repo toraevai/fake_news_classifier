@@ -1,0 +1,2 @@
+# fake_news_classifier
+Используем PassiveAggressiveClassifier для определения фейковых новостей
